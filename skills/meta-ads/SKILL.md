@@ -38,15 +38,48 @@ Default to broad targeting with strong creative. On Meta, the creative does most
 ## Budget rules
 
 - An ad set needs roughly 50 optimization events per week to exit the learning phase. If the budget cannot support that, optimize for a higher-funnel event (add to cart, initiate checkout) temporarily or consolidate ad sets.
-- Give each new creative enough spend to judge it: around 1–2× target CPA before cutting, unless early metrics (hook rate, CTR) are clearly poor.
 - Testing budget: about 20% of total spend.
+
+## Testing setup (common defaults; adjust to the account)
+
+- Use ABO for creative tests so every concept gets its own guaranteed budget; use CBO or Advantage+ for scaling.
+- One ad set per concept, 3–5 ads per ad set (variations of the same concept: different hooks or formats).
+- Daily budget per test ad set: about 1× target CPA, so each ad set can reach a decision in 2–3 days.
+- Run a test for at least 3 days before judging on CPA; avoid judging on day one.
+
+## Kill / keep rules for new creatives
+
+| Situation (after the spend shown) | Decision |
+|---|---|
+| Spend ≈ 1× target CPA, CTR (link) clearly below account average and no add-to-carts | Kill |
+| Spend ≈ 1.5–2× target CPA, no purchase | Kill |
+| Spend ≈ 2× target CPA, purchases but CPA 20–50% above target, strong hook rate and CTR | Iterate: new hooks, new landing page, keep running a few more days |
+| CPA at or below target over 3+ days with several purchases | Winner: move to scaling |
+
+Use the account's own averages for CTR and hook rate as the benchmark, not internet benchmarks.
 
 ## Scaling rules
 
-- **Vertical**: raise budgets on winners by about 15–20% every 2–3 days while CPA holds.
-- **Horizontal**: move winning creatives into the scaling campaign; launch new angles rather than duplicating the same ad many times.
+- **Vertical**: raise budgets on winners by about 20% every 48–72 hours while CPA stays within target. Do not raise budgets on a day CPA spiked.
+- **Horizontal**: when vertical increases start pushing CPA up, stop increasing and instead duplicate the winning ads into a new ad set or the scaling campaign, or launch new angles of the same winning concept.
+- Prefer duplicating over a big budget jump when the jump would be more than about 50% at once, or when the ad set is still in learning.
 - Use cost cap or bid cap only when you know your target CPA and have enough conversion volume.
 - Do not make big edits to a performing ad set; each significant edit can restart learning.
+
+## When scaling breaks
+
+Most common failure: budget raised too fast or too often, CPA jumps and the ad set re-enters learning. Recovery:
+1. Do not panic-edit. Wait 2–3 days unless spend is clearly being wasted.
+2. Roll the budget back to the last level where CPA was stable.
+3. Check frequency and CTR: if the creative is fatiguing, add fresh creatives rather than more budget.
+4. Resume scaling more slowly, or scale horizontally instead.
+
+## New account ramp
+
+New ad accounts have lower trust. A common ramp:
+- Week 1: modest daily spend (for example tens of dollars per day), one simple campaign, fully compliant ads and site
+- Week 2: increase gradually (about 20–30% every few days) if there are no policy flags and payments go through
+- Avoid sudden large jumps, many new campaigns at once, or frequent payment method changes in the first weeks
 
 ## Troubleshooting: CPA went up
 

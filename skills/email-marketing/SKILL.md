@@ -17,6 +17,7 @@ Read `.agents/product-context.md` first if it exists and only ask for what is mi
 - List size, how subscribers are collected, current flows
 - Product type and typical repurchase cycle
 - Brand voice and offers the user is willing to give
+- Where goods ship from (China direct or local stock) and the real delivery time; ask if unknown
 
 ## Core flows
 

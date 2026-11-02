@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.2.0 (2026-11-02)
+
+- Every skill now asks where goods ship from (China direct vs local stock: US warehouse, 3PL, FBA, MCF)
+- Added `growth-strategy/references/fulfillment.md` with two playbooks and a comparison table
+- Skill improvements from a full test run: read references first, stay focused, offer to save product context
+
 ## 2.1.0 (2026-11-02)
 
 - Added `conversational-sales` (私域成交): lead intake, lead qualification, chat scripts, FAQ library

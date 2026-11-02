@@ -24,6 +24,11 @@ Last updated: YYYY-MM-DD
 - Break-even ROAS (1 ÷ margin):
 - Target CPA:
 
+## Fulfillment
+- Where orders ship from: (A) directly from China / (B) local stock: US warehouse, 3PL, Amazon FBA, MCF / (C) not decided
+- Delivery time to customer:
+- Return address in the market:
+
 ## Market & customer
 - Target market(s): (default United States)
 - B2C or B2B:
@@ -73,6 +78,11 @@ Last updated: 2026-11-02
 - Gross margin: 63%
 - Break-even ROAS: 1.6
 - Target CPA: $21
+
+## Fulfillment
+- Where orders ship from: (B) US 3PL warehouse
+- Delivery time to customer: ships in 1–2 days, arrives in 3–5 business days
+- Return address in the market: US 3PL
 
 ## Market & customer
 - Target market: United States

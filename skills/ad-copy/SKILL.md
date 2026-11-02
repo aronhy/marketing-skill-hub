@@ -18,6 +18,7 @@ Read `.agents/product-context.md` first if it exists and only ask for what is mi
 - Awareness level of the audience (see below)
 - Platforms and placements
 - Words or claims to avoid (compliance, brand voice)
+- Where goods ship from (China direct or local stock) and the real delivery time; ask if unknown
 
 ## Awareness levels
 

@@ -11,13 +11,14 @@ Entry point of this library. Decide what the user needs, read only the matching 
 
 Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `references/product-context-template.md`).
 
-Product, price, gross margin, B2C or B2B, target market (default US), monthly budget, current stage (idea / first sales / scaling), assets in place (site, pixel, reviews, creatives, email list).
+Product, price, gross margin, B2C or B2B, target market (default US), **where goods ship from** (China direct, or local stock: US warehouse / 3PL / FBA; always ask if unknown, because it changes the whole plan), monthly budget, current stage (idea / first sales / scaling), assets in place (site, pixel, reviews, creatives, email list).
 
 ## What to do
 
 | User wants | Read |
 |---|---|
 | Set up the shared product context used by every skill | `references/product-context-template.md` |
+| Where goods ship from, China direct vs US warehouse / FBA / FBM, delivery promises | `references/fulfillment.md` |
 | Where to start, 90-day plan, which channel, budget split | `references/growth-plan.md` + `references/90-day-plan-example.md` |
 | Can this sell overseas, demand, unit economics | `references/market-research.md` + `references/unit-economics.md` |
 | What competitors run, swipe file, gaps | `references/competitor-ad-research.md` + `references/swipe-file-template.md` |
@@ -37,7 +38,7 @@ Product, price, gross margin, B2C or B2B, target market (default US), monthly bu
 - Break-even ROAS = 1 ÷ gross margin. Know it before launching ads.
 - Evidence over opinion: every demand claim needs a source.
 - Never invent reviews, numbers or fake scarcity.
-- Shipping from China (7–15 days) is workable: state delivery times honestly everywhere and offset the wait with a guarantee and tracking (see `references/offer-positioning.md`).
+- Where goods ship from decides delivery promises, costs and messaging. Follow the matching path in `references/fulfillment.md`.
 
 ## Route to other skills
 

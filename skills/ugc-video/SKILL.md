@@ -7,7 +7,7 @@ description: Create UGC-style video ads for TikTok, Reels and Meta: write script
 
 ## Gather context first
 
-Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather product, key benefit, real proof, offer, target viewer and main objection, and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather product, key benefit, real proof, offer, target viewer and main objection, where goods ship from and real delivery time, and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
 
 ## The 3-second conflict rule (always applies)
 

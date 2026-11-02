@@ -9,7 +9,7 @@ description: Run private-traffic (私域) sales with overseas customers on Whats
 
 Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
 
-B2C or B2B, channels in use (WhatsApp, Instagram DM, Messenger, Telegram, email, website chat), where leads come from (ads, creators, cold email, organic), who replies (the user, a team, a chatbot), product, price or MOQ, main objections, and current numbers (leads per week, reply rate, close rate).
+B2C or B2B, channels in use (WhatsApp, Instagram DM, Messenger, Telegram, email, website chat), where leads come from (ads, creators, cold email, organic), who replies (the user, a team, a chatbot), product, price or MOQ, main objections, and current numbers (leads per week, reply rate, close rate). Where goods ship from (China direct or local stock) and the real delivery time; ask if unknown, since it changes what you can promise.
 
 ## What to do
 

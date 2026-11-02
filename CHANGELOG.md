@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.0 (2026-11-02)
+
+- Added `conversational-sales` (私域成交): lead intake, lead qualification, chat scripts, FAQ library
+
 ## 2.0.0 (2026-11-02)
 
 - Merged 19 skills into 7: `growth-strategy`, `paid-ads`, `ad-copy`, `ugc-video`, `ads-optimization`, `cold-outreach`, `email-marketing`

@@ -42,3 +42,4 @@ Product, price, gross margin, B2C or B2B, target market (default US), monthly bu
 | Test creatives, weekly review, diagnose CPA | `ads-optimization` |
 | B2B prospecting, 开发信 | `cold-outreach` |
 | Email flows for subscribers and customers | `email-marketing` |
+| 私域: lead registration, screening, chat scripts, FAQ | `conversational-sales` |

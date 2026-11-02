@@ -1,8 +1,8 @@
 # Overseas Marketing Skills · 海外营销技能库
 
-> Agent Skills for taking a product overseas (default market: United States): Meta, Google and TikTok ads, multi-angle ad copy, UGC video, campaign reviews, cold email and outreach, creators and email marketing. Install them into Claude, Codex, Cursor or any agent that supports the Agent Skills spec, and your AI works like an overseas growth team.
+> Agent Skills for taking a product overseas (default market: United States): Meta, Google and TikTok ads, multi-angle ad copy, UGC video, campaign reviews, cold email and outreach, creators, email marketing and 私域 (private-traffic) sales. Install them into Claude, Codex, Cursor or any agent that supports the Agent Skills spec, and your AI works like an overseas growth team.
 >
-> 海外营销 Agent Skills 技能库（默认美国市场）：Meta / Google / TikTok 广告投放、多角度文案、UGC 视频、投放复盘、冷邮件与开发信、达人合作、邮件营销。装进 Claude、Codex、Cursor 等支持 Agent Skills 规范的 AI 工具，让你的 AI 像一支出海增长团队一样干活。
+> 海外营销 Agent Skills 技能库（默认美国市场）：Meta / Google / TikTok 广告投放、多角度文案、UGC 视频、投放复盘、冷邮件与开发信、达人合作、邮件营销、私域成交。装进 Claude、Codex、Cursor 等支持 Agent Skills 规范的 AI 工具，让你的 AI 像一支出海增长团队一样干活。
 
 [English](#english) · [中文](#中文)
 
@@ -54,6 +54,7 @@ Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and poin
 | 5 | `ads-optimization` | Creative testing, kill / keep rules, weekly reviews, CPA diagnosis |
 | 6 | `cold-outreach` | Cold email from zero: domains, warm-up, deliverability, 开发信 sequences |
 | 7 | `email-marketing` | Welcome, abandoned cart, post-purchase, win-back flows, holiday calendar |
+| 8 | `conversational-sales` | 私域 sales on WhatsApp, DMs, Telegram and email: lead intake, qualification, chat scripts, FAQ library |
 
 ### How a skill is structured
 
@@ -131,6 +132,7 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 | 5 | `ads-optimization` | 素材测试、关停 / 保留规则、周复盘、CPA 诊断 |
 | 6 | `cold-outreach` | 冷邮件冷启动：域名、预热、送达率、开发信序列 |
 | 7 | `email-marketing` | 欢迎、弃单、购后、召回邮件流程，节日营销日历 |
+| 8 | `conversational-sales` | 私域成交：客户登记、客户筛选、聊天话术、常见问题（WhatsApp、私信、Telegram、邮件） |
 
 ### 技能文件结构
 

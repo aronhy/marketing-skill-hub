@@ -175,3 +175,9 @@ Skill content (Markdown) is licensed under [CC BY-NC 4.0](https://creativecommon
 
 Platform features and policies change often. Always confirm details in each platform's current documentation.
 各平台功能和政策变化频繁，具体细节请以平台最新文档为准。
+
+---
+
+<p align="center">
+  Built by <a href="https://x.com/aronhouyu">Aron 厚玉</a> · Follow on X for more overseas growth playbooks · 关注 X 获取更多出海增长实战：<a href="https://x.com/aronhouyu">@aronhouyu</a>
+</p>

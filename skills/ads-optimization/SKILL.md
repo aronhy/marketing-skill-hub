@@ -21,6 +21,7 @@ Exported metrics for this period and the previous one (spend, CPM, CTR, CVR, CPA
 
 ## How to work
 
+- Take data in whatever form the user has: a screenshot of Ads Manager, a pasted table, or a CSV. Never ask them to export in a special format or connect accounts. Read what they give, check it for consistency, and ask only for the one or two missing numbers that block the diagnosis.
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
 - Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.

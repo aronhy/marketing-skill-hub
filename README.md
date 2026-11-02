@@ -21,14 +21,14 @@
 **Any agent (Agent Skills CLI)**
 
 ```bash
-npx skills add https://github.com/aronhy/overseas-marketing-skills
+npx skills add https://github.com/aronhy/marketing-skill-hub
 ```
 
 **Claude Code (manual)**
 
 ```bash
-git clone https://github.com/aronhy/overseas-marketing-skills.git
-cp -r overseas-marketing-skills/skills/* ~/.claude/skills/
+git clone https://github.com/aronhy/marketing-skill-hub.git
+cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 ```
 
 **Claude.ai / ChatGPT / others**: upload or paste any `SKILL.md` into the chat, then describe your product.
@@ -101,14 +101,14 @@ The open-source skills cover the foundations. **Pro** adds complete SOPs, real c
 **任意 AI 工具（Agent Skills 命令行）**
 
 ```bash
-npx skills add https://github.com/aronhy/overseas-marketing-skills
+npx skills add https://github.com/aronhy/marketing-skill-hub
 ```
 
 **Claude Code（手动安装）**
 
 ```bash
-git clone https://github.com/aronhy/overseas-marketing-skills.git
-cp -r overseas-marketing-skills/skills/* ~/.claude/skills/
+git clone https://github.com/aronhy/marketing-skill-hub.git
+cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 ```
 
 **Claude.ai / ChatGPT 等**：上传或粘贴任意 `SKILL.md`，再描述你的产品即可。

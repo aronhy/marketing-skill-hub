@@ -1,6 +1,6 @@
 ---
 name: paid-ads
-description: Set up, launch, scale and troubleshoot paid ads on Meta (Facebook/Instagram), Google (Search, Shopping, PMax) and TikTok for overseas markets (default US), including conversion tracking and ad policy compliance. Use when the user asks about any ad platform, campaign structure, budgets, scaling, Pixel/CAPI/GA4/UTMs, rejected ads or account bans.
+description: Set up, launch, scale and troubleshoot paid ads on Meta (Facebook/Instagram), Google (Search, Shopping, PMax) and TikTok for overseas markets (default US), including conversion tracking and ad policy compliance. Use when the user asks about any ad platform, campaign structure, budgets, scaling, optimizing a Google account (search terms, keywords, negatives, PMax, bidding), Meta or TikTok settings, Pixel/CAPI/GA4/UTMs, rejected ads or account bans. 中文关键词: 投放, 广告投放, Meta 广告, Facebook 广告, Google 广告, 谷歌广告, TikTok 广告, 搜索词, 否定词, 放量, 像素, 封号, 拒审.
 ---
 
 # Paid Ads
@@ -24,7 +24,7 @@ Platform(s), product, price, gross margin, target CPA or ROAS, budget, tracking 
 ## How to work
 
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## Core rules

@@ -14,6 +14,8 @@ Review and adapt; not every term applies to every business.
 | Wrong channel | amazon, walmart, ebay, near me (if online only) |
 | Irrelevant meanings | add as you find them in the search terms report |
 
+Don't negate words that often signal buying intent, such as "best", "review(s)", "vs" or "near me" (for local stores), unless the search terms report shows they never convert. Prefer phrase or exact negatives for short words so you don't block good queries.
+
 ## Keyword map example (fictional CoreSeat cushion)
 
 | Ad group | Keyword | Match type | Intent |

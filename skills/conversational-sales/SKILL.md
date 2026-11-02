@@ -1,6 +1,6 @@
 ---
 name: conversational-sales
-description: Run private-traffic (私域) sales with overseas customers on WhatsApp, Instagram and Messenger DMs, Telegram and email: lead intake and registration, lead qualification and scoring, chat scripts (话术) from first reply to close and follow-up, and an FAQ library. Use when the user asks about 私域, customer registration forms, lead screening, sales scripts, DM replies, handling inquiries or quotes, objection handling in chat, or building FAQs.
+description: Run private-traffic (私域) sales with overseas customers on WhatsApp, Instagram and Messenger DMs, Telegram and email: lead intake and registration, lead qualification and scoring, chat scripts (话术) from first reply to close and follow-up, and an FAQ library. Use when the user asks about 私域, customer registration forms, lead screening, sales scripts, DM replies, handling inquiries or quotes, objection handling in chat, or building FAQs. 中文关键词: 私域, 客户登记, 客户筛选, 聊天话术, 销售话术, 常见问题, FAQ, WhatsApp.
 ---
 
 # Conversational Sales (私域成交)
@@ -23,7 +23,7 @@ B2C or B2B, channels in use (WhatsApp, Instagram DM, Messenger, Telegram, email,
 ## How to work
 
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## Core rules

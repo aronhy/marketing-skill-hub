@@ -1,6 +1,6 @@
 ---
 name: ad-copy
-description: Generate ad copy from many different angles for Meta, Google and TikTok, written in natural native English (default US audience). Use when the user asks for ad copy, hooks, headlines, primary text, RSA headlines, multiple angles or variations, or wants copy that doesn't sound translated.
+description: Generate ad copy from many different angles for Meta, Google and TikTok, written in natural native English (default US audience). Use when the user asks for ad copy, hooks, headlines, primary text, RSA headlines, multiple angles or variations, or wants copy that doesn't sound translated. 中文关键词: 广告文案, 文案, 标题, 钩子, 多角度文案, 英文文案.
 ---
 
 # Multi-Angle Ad Copy
@@ -80,7 +80,7 @@ Table: ID, angle, awareness level, platform, hook, primary text / description, h
 ## How to work
 
 - Before answering, read the reference file listed under References below. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## References

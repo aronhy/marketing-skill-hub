@@ -1,6 +1,6 @@
 ---
 name: cold-outreach
-description: Cold email from zero for overseas B2B: set up sending domains, SPF/DKIM/DMARC, warm-up and safe volume, then write personalized cold emails, 开发信 and follow-up sequences that get replies, within CAN-SPAM and Gmail/Yahoo sender rules. Use when the user asks about cold email, 开发信, outreach to importers, distributors, retailers or partners, deliverability, or follow-ups.
+description: Cold email from zero for overseas B2B: set up sending domains, SPF/DKIM/DMARC, warm-up and safe volume, then write personalized cold emails, 开发信 and follow-up sequences that get replies, within CAN-SPAM and Gmail/Yahoo sender rules. Use when the user asks about cold email, 开发信, outreach to importers, distributors, retailers or partners, deliverability, or follow-ups. 中文关键词: 冷邮件, 开发信, 外贸开发, 邮件营销冷启动, 送达率, 跟进邮件.
 ---
 
 # Cold Outreach (冷邮件与开发信)
@@ -21,7 +21,7 @@ What the user sells and to whom, the strongest proof (clients, results, certific
 ## How to work
 
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## Core rules

@@ -1,6 +1,6 @@
 ---
 name: ugc-video
-description: Create UGC-style video ads for TikTok, Reels and Meta: write scripts with a 3-second conflict hook, tear down an uploaded video frame by frame and generate new original scripts, and find and brief creators. Use when the user asks for video scripts, hooks, a video breakdown or 拆解, a creator brief, or influencer/creator outreach.
+description: Create UGC-style video ads for TikTok, Reels and Meta: write scripts with a 3-second conflict hook, tear down an uploaded video frame by frame and generate new original scripts, and find and brief creators. Use when the user asks for video scripts, hooks, a video breakdown or 拆解, a creator brief, or influencer/creator outreach. 中文关键词: UGC, 短视频, 视频脚本, 带货视频, 拆解视频, 逐帧拆解, 达人, 红人, KOL.
 ---
 
 # UGC Video
@@ -24,7 +24,7 @@ The first 3 seconds must contain dramatic conflict: person vs problem, person vs
 ## How to work
 
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## Core rules

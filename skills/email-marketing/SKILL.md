@@ -1,6 +1,6 @@
 ---
 name: email-marketing
-description: Plan and write automated email flows and campaigns for opted-in subscribers and customers in overseas markets (default US): welcome, abandoned cart, browse abandonment, post-purchase, review requests, win-back, and a holiday campaign calendar. Use when the user asks about email marketing, Klaviyo or Shopify Email flows, abandoned cart emails, retention, or repeat purchases.
+description: Plan and write automated email flows and campaigns for opted-in subscribers and customers in overseas markets (default US): welcome, abandoned cart, browse abandonment, post-purchase, review requests, win-back, and a holiday campaign calendar. Use when the user asks about email marketing, Klaviyo or Shopify Email flows, abandoned cart emails, retention, or repeat purchases. 中文关键词: 邮件营销, 欢迎邮件, 弃单邮件, 弃购, 召回邮件, 物流通知, Klaviyo.
 ---
 
 # Email Lifecycle Marketing
@@ -66,7 +66,7 @@ Revenue per recipient, click rate, conversion rate, unsubscribe and spam complai
 ## How to work
 
 - Before answering, read the reference file listed under References below. Paths are relative to this skill's folder.
-- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
 ## References

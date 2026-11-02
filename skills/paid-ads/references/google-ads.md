@@ -43,6 +43,10 @@ A Google Ads account that captures existing demand profitably, with clean conver
 - Move to target CPA or target ROAS once the campaign has a steady flow of conversions (roughly 30 or more in 30 days).
 - Change targets in small steps (10–20%) and wait a week between changes.
 
+## Sanity check before optimizing
+
+Compare conversions × average order value with the reported conversion value. If they don't match (for example 40 conversions at $30 but ROAS implies $3,000 in value), conversion tracking or values are wrong; fix that before changing bids or budgets.
+
 ## Weekly optimization routine
 
 - Search terms report: add negatives, promote high performers to their own keywords

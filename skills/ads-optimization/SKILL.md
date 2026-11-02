@@ -18,6 +18,12 @@ Exported metrics for this period and the previous one (spend, CPM, CTR, CVR, CPA
 | Plan or read creative tests, kill/keep rules, creative log | `references/creative-testing.md` + `references/creative-log-template.md` |
 | Weekly or monthly review, why CPA rose, report | `references/ads-review-optimization.md` + `references/weekly-review-example.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - CPA ≈ CPM ÷ (CTR × CVR) ÷ 1000. When CPA moves, find which input moved before acting.

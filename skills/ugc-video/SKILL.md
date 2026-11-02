@@ -21,6 +21,12 @@ The first 3 seconds must contain dramatic conflict: person vs problem, person vs
 | Uploads a video to analyze, break down or remake | `references/ugc-video-teardown.md` + `references/teardown-example.md`, and run `scripts/extract_frames.sh <video> <out_dir>` when a shell with ffmpeg is available |
 | Find, vet, contact and pay creators | `references/influencer-outreach.md` + `references/outreach-templates.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - Native beats polished: vertical 9:16, real people, real settings, captions on.

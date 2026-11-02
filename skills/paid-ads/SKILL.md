@@ -21,6 +21,12 @@ Platform(s), product, price, gross margin, target CPA or ROAS, budget, tracking 
 | Pixel, Conversions API, Events API, enhanced conversions, GA4, UTMs | `references/tracking-setup.md` + `references/qa-checklist.md` |
 | Rejected ads, restrictions, bans, pre-launch compliance check | `references/ad-policy-compliance.md` + `references/risky-phrases.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - No spend before tracking passes QA.

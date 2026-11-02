@@ -50,6 +50,17 @@ Fictional brand: **CoreSeat** ($49 seat cushion). Adapt the voice to the user's 
 | 3 | Delivered + 14 days | How's your back feeling? | Review request with photo upload link |
 | 4 | Delivered + 30 days | For your car, too | Cross-sell: second cushion or lumbar pillow bundle |
 
+## Shipping-update flow (for 7–15 day delivery from China)
+
+Long transit creates anxiety and "where is my order?" tickets. Send updates before customers ask:
+
+| Email | Timing | Subject | Content |
+|---|---|---|---|
+| 1 | Shipped | Your order is on its way | Tracking link, honest delivery window (for example 7–12 business days), what to expect |
+| 2 | ~Day 5 in transit | Quick update on your order | Where it is now, reassurance, how to use the product when it arrives |
+| 3 | ~Day 10 or if delayed | Still on the way | Apology if late, new estimate, direct reply line to a real person |
+| 4 | Delivered | It's here! | Setup tips; start the post-purchase flow |
+
 ## Win-back (no purchase in 120 days, for repeatable products)
 
 - Subject: It's been a while

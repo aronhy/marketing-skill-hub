@@ -31,6 +31,16 @@ A one-sentence positioning statement, three testable offers, and answers to the 
 - Real contact information and a US-friendly support experience
 - Honest, specific claims; vague superlatives reduce trust
 
+## Shipping from China (direct fulfillment)
+
+Many sellers ship directly from China with 7–15 day delivery. This is workable if handled honestly:
+
+- State delivery time clearly in ads (where relevant), on the product page, at checkout and in the order confirmation. Never imply fast US shipping you don't offer.
+- Lead with what offsets the wait: a strong guarantee, tracking from day one, proactive shipping updates.
+- Expect more "where is my order?" messages; send shipping-update emails before customers ask (see `email-marketing`).
+- Test a faster option once the product proves itself (US warehouse, 3PL); faster delivery usually lifts conversion rate.
+- Factor longer delivery into returns and chargeback risk in the unit economics.
+
 ## Rules of thumb
 
 - If ads get a good CTR but conversion is low, the problem is usually the offer or the page, not the targeting.

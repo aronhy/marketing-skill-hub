@@ -18,6 +18,12 @@ What the user sells and to whom, the strongest proof (clients, results, certific
 | Start from zero: domains, DNS, warm-up, volume ramp, compliance, emails going to spam | `references/cold-email-setup.md` + `references/dns-and-ramp.md` |
 | Write cold emails, 开发信, sequences, subject lines, reply handling | `references/cold-outreach-copy.md` + `references/sequence-examples.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - Never send cold email from the main company domain.

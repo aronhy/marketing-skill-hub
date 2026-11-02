@@ -20,6 +20,12 @@ B2C or B2B, channels in use (WhatsApp, Instagram DM, Messenger, Telegram, email,
 | Chat scripts: opener, discovery, recommendation, objections, close, follow-up, after-sale | `references/chat-scripts.md` |
 | FAQ library for chat, landing pages and chatbots | `references/faq-library.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - Speed wins: reply to new inquiries within minutes during business hours in the customer's time zone; set an instant auto-reply outside them.

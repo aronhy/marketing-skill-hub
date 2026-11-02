@@ -24,6 +24,12 @@ Product, price, gross margin, B2C or B2B, target market (default US), monthly bu
 | Positioning, offers, objections, "clicks but no sales" | `references/offer-positioning.md` + `references/positioning-example.md` |
 | Landing page outline, copy, CRO review | `references/landing-page.md` + `references/page-copy-example.md` |
 
+## How to work
+
+- Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## Core rules
 
 - Fix foundations before spending: tracking, a trustworthy page, a clear offer.
@@ -31,6 +37,7 @@ Product, price, gross margin, B2C or B2B, target market (default US), monthly bu
 - Break-even ROAS = 1 ÷ gross margin. Know it before launching ads.
 - Evidence over opinion: every demand claim needs a source.
 - Never invent reviews, numbers or fake scarcity.
+- Shipping from China (7–15 days) is workable: state delivery times honestly everywhere and offset the wait with a guarantee and tracking (see `references/offer-positioning.md`).
 
 ## Route to other skills
 

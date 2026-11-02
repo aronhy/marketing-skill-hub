@@ -62,6 +62,12 @@ Revenue per recipient, click rate, conversion rate, unsubscribe and spam complai
 3. A 12-month campaign calendar with suggested themes
 4. KPIs to track
 
+## How to work
+
+- Before answering, read the reference file listed under References below. Paths are relative to this skill's folder.
+- Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work.
+- If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
+
 ## References
 
 - `references/flow-copy-examples.md`: welcome, abandoned checkout and post-purchase copy, win-back, 12-month calendar

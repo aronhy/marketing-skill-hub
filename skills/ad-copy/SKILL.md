@@ -11,6 +11,8 @@ A labeled set of ad copy across distinct angles and platforms, ready to test, th
 
 ## Before you start: gather context
 
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+
 - Product, price, offer, key benefits and proof (reviews, numbers, guarantees)
 - Target customer and their main problem
 - Awareness level of the audience (see below)

@@ -9,12 +9,15 @@ Entry point of this library. Decide what the user needs, read only the matching 
 
 ## Gather context first
 
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `references/product-context-template.md`).
+
 Product, price, gross margin, B2C or B2B, target market (default US), monthly budget, current stage (idea / first sales / scaling), assets in place (site, pixel, reviews, creatives, email list).
 
 ## What to do
 
 | User wants | Read |
 |---|---|
+| Set up the shared product context used by every skill | `references/product-context-template.md` |
 | Where to start, 90-day plan, which channel, budget split | `references/growth-plan.md` + `references/90-day-plan-example.md` |
 | Can this sell overseas, demand, unit economics | `references/market-research.md` + `references/unit-economics.md` |
 | What competitors run, swipe file, gaps | `references/competitor-ad-research.md` + `references/swipe-file-template.md` |

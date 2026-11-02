@@ -5,6 +5,10 @@ description: Create UGC-style video ads for TikTok, Reels and Meta: write script
 
 # UGC Video
 
+## Gather context first
+
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather product, key benefit, real proof, offer, target viewer and main objection, and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+
 ## The 3-second conflict rule (always applies)
 
 The first 3 seconds must contain dramatic conflict: person vs problem, person vs person, expectation vs reality, or stakes against a clock. No conflict means no stop and no retention. Check every hook: if removing the conflict loses nothing, rewrite it.

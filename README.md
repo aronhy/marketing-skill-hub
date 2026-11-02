@@ -18,6 +18,12 @@
 
 ### Install
 
+**Claude Code (plugin, recommended)**
+
+```
+/plugin install marketing-skill-hub --marketplace aronhy/marketing-skill-hub
+```
+
 **Any agent (Agent Skills CLI)**
 
 ```bash
@@ -34,6 +40,8 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 **Claude.ai / ChatGPT / others**: upload or paste any `SKILL.md` into the chat, then describe your product.
 
 Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and points to the right skill.
+
+**Shared product context.** The first time you use any skill, it offers to save your product facts (price, margin, customer, proof, results) to `.agents/product-context.md`. Every skill reads that file first, so you never answer the same questions twice.
 
 ### Skills
 
@@ -87,6 +95,12 @@ The open-source skills cover the foundations. **Pro** adds complete SOPs, real c
 
 ### 安装
 
+**Claude Code（插件，推荐）**
+
+```
+/plugin install marketing-skill-hub --marketplace aronhy/marketing-skill-hub
+```
+
 **任意 AI 工具（Agent Skills 命令行）**
 
 ```bash
@@ -103,6 +117,8 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 **Claude.ai / ChatGPT 等**：上传或粘贴任意 `SKILL.md`，再描述你的产品即可。
 
 不知道从哪开始？用 `growth-strategy`，它会给出 90 天计划并告诉你下一步用哪个技能。
+
+**共享产品档案。** 第一次使用任意技能时，它会提议把你的产品信息（价格、毛利、目标用户、证明、投放数据）保存到 `.agents/product-context.md`。之后所有技能都会先读这个文件，同样的问题不用回答第二遍。
 
 ### 技能列表
 

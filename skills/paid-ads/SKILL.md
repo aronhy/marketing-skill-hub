@@ -7,6 +7,8 @@ description: Set up, launch, scale and troubleshoot paid ads on Meta (Facebook/I
 
 ## Gather context first
 
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+
 Platform(s), product, price, gross margin, target CPA or ROAS, budget, tracking status, account history, and current numbers (last 7 and 30 days) if live.
 
 ## What to do

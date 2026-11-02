@@ -11,6 +11,8 @@ Automated flows that turn paid traffic into repeat revenue, plus a campaign cale
 
 ## Before you start: gather context
 
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+
 - Store platform and email tool
 - List size, how subscribers are collected, current flows
 - Product type and typical repurchase cycle

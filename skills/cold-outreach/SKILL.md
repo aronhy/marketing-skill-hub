@@ -7,6 +7,8 @@ description: Cold email from zero for overseas B2B: set up sending domains, SPF/
 
 ## Gather context first
 
+Read `.agents/product-context.md` first if it exists and only ask for what is missing. If it doesn't exist, gather the facts below and offer to create it (template: `growth-strategy` → `references/product-context-template.md`).
+
 What the user sells and to whom, the strongest proof (clients, results, certifications, MOQ, lead time), main domain, whether any domain has sent cold email before, planned volume, and the desired next step (reply, sample, call).
 
 ## What to do

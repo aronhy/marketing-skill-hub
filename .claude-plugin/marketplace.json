@@ -1,0 +1,15 @@
+{
+  "name": "aronhy-marketing",
+  "description": "Overseas marketing skills by Aron Houyu",
+  "owner": {
+    "name": "Aron Houyu",
+    "url": "https://x.com/aronhouyu"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skill-hub",
+      "source": "./",
+      "description": "7 overseas marketing skills (EN + 中文): growth strategy, paid ads, ad copy, UGC video, ads optimization, cold outreach, email marketing."
+    }
+  ]
+}

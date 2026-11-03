@@ -41,7 +41,7 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 
 Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and points to the right skill.
 
-**New to this? Read the glossary first.** [Glossary (中英对照术语表)](skills/growth-strategy/references/glossary.md) explains CPA, ROAS, CPM, CAPI, PMax, SPF and 80+ other terms, with one worked example that ties the core metrics together. Then the [Beginner FAQ (新手常见问题)](skills/growth-strategy/references/beginner-faq.md): Amazon or your own site, US company, payments, US taxes, tariffs, trademarks, certifications, bans, budget.
+**New to this? Read the glossary first.** [Glossary (中英对照术语表)](skills/growth-strategy/references/glossary.md) explains CPA, ROAS, CPM, CAPI, PMax, SPF and 80+ other terms, with one worked example that ties the core metrics together. Then the [Beginner FAQ: 100 questions (出海新手 100 问)](skills/growth-strategy/references/beginner-faq.md): product choice, Amazon or your own site, US company, payments, US taxes, tariffs, trademarks, certifications, websites, ads, creatives, logistics, bans, budget.
 
 **Ads data: just send a screenshot.** For ad reviews, take a screenshot of your ads dashboard and send it. No exports, no account connections.
 
@@ -123,7 +123,7 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 
 不知道从哪开始？用 `growth-strategy`，它会给出 90 天计划并告诉你下一步用哪个技能。
 
-**新手先看术语表。** [中英对照术语表](skills/growth-strategy/references/glossary.md)：CPA、ROAS、CPM、CAPI、PMax、SPF 等 80 多个词，每个一句话讲清楚，并用一个算例把核心指标串起来。再看 [新手常见问题](skills/growth-strategy/references/beginner-faq.md)：独立站还是亚马逊、要不要注册美国公司、要不要交美国的税、关税、商标、认证、被封了怎么办、起步要多少钱。
+**新手先看术语表。** [中英对照术语表](skills/growth-strategy/references/glossary.md)：CPA、ROAS、CPM、CAPI、PMax、SPF 等 80 多个词，每个一句话讲清楚，并用一个算例把核心指标串起来。再看 [出海新手 100 问](skills/growth-strategy/references/beginner-faq.md)：选品、独立站还是亚马逊、要不要注册美国公司、美国税务和关税、商标和认证、建站、投放、素材达人、物流客服、被封了怎么办、起步要多少钱。
 
 **投放数据：截图就行。** 做投放分析或复盘时，直接把广告后台截图发给 AI，不用导出，也不用授权连接账户。
 

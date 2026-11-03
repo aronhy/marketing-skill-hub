@@ -2,7 +2,7 @@
 
 ## 2.3.0 (2026-11-03)
 
-- Added a beginner FAQ (`growth-strategy/references/beginner-faq.md`): platform choice, company setup, payments, US taxes, tariffs, trademarks, certifications, bans, budget, timelines
+- Added a beginner FAQ with 100 questions in 10 categories (`growth-strategy/references/beginner-faq.md`): product choice, platforms, company and payments, US taxes and tariffs, IP and compliance, websites, ads, creatives and creators, logistics and customer service, bans and risk
 - Added a bilingual glossary for beginners (`growth-strategy/references/glossary.md`) with a worked example tying the core ad metrics together
 - Every skill now explains abbreviations in plain words for new users
 - Ads skills accept screenshots or pasted data

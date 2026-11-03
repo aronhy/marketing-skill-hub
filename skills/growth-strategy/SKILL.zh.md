@@ -2,7 +2,7 @@
 
 > 中文阅读版。给 AI 执行的指令见同目录 `SKILL.md`，各部分详细内容见 `references/`。
 
-新手看不懂缩写？先看 [中英对照术语表](references/glossary.md)。有入门疑问（独立站还是亚马逊、美国公司、税务、被封等）看 [新手常见问题](references/beginner-faq.md)。
+新手看不懂缩写？先看 [中英对照术语表](references/glossary.md)。有入门疑问（独立站还是亚马逊、美国公司、税务、被封等）看 [出海新手 100 问](references/beginner-faq.md)。
 
 ## 海外营销增长规划（总入口）
 

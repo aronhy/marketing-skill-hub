@@ -17,7 +17,7 @@ Product, price, gross margin, B2C or B2B, target market (default US), **where go
 
 | User wants | Read |
 |---|---|
-| Beginner questions: Amazon vs own website, US company, payments, US sales tax and income tax, tariffs, trademarks, certifications, account or store bans, startup budget, how long to profit | `references/beginner-faq.md` |
+| Beginner questions (100 FAQ): product choice, Amazon vs own website, US company, payments, US sales tax and income tax, tariffs, trademarks, certifications, account or store bans, website basics, ads, creatives, creators, logistics, returns, customer service, scams, startup budget, how long to profit | `references/beginner-faq.md` |
 | What a term or abbreviation means (CPA, ROAS, CPM, CAPI, PMax, SPF…), beginner explanations | `references/glossary.md` |
 | Set up the shared product context used by every skill | `references/product-context-template.md` |
 | Where goods ship from, China direct vs US warehouse / FBA / FBM, delivery promises | `references/fulfillment.md` |

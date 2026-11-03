@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.0 (2026-11-03)
+
+- Added `social-media` (社媒运营): TikTok, Instagram, YouTube, other platforms (Facebook, Pinterest, X, Reddit, LinkedIn) and a content system with repurposing, pillars, weekly cadence and a content calendar
+- Added social media terms to the glossary
+
 ## 2.3.0 (2026-11-03)
 
 - Added a beginner FAQ with 100 questions in 10 categories (`growth-strategy/references/beginner-faq.md`): product choice, platforms, company and payments, US taxes and tariffs, IP and compliance, websites, ads, creatives and creators, logistics and customer service, bans and risk

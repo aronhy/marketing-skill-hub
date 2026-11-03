@@ -1,8 +1,8 @@
 # Overseas Marketing Skills · 海外营销技能库
 
-> Agent Skills for taking a product overseas (default market: United States): Meta, Google and TikTok ads, multi-angle ad copy, UGC video, campaign reviews, cold email and outreach, creators, email marketing and 私域 (private-traffic) sales. Install them into Claude, Codex, Cursor or any agent that supports the Agent Skills spec, and your AI works like an overseas growth team.
+> Agent Skills for taking a product overseas (default market: United States): Meta, Google and TikTok ads, multi-angle ad copy, UGC video, campaign reviews, cold email and outreach, creators, email marketing, 私域 (private-traffic) sales and organic social media. Install them into Claude, Codex, Cursor or any agent that supports the Agent Skills spec, and your AI works like an overseas growth team.
 >
-> 海外营销 Agent Skills 技能库（默认美国市场）：Meta / Google / TikTok 广告投放、多角度文案、UGC 视频、投放复盘、冷邮件与开发信、达人合作、邮件营销、私域成交。装进 Claude、Codex、Cursor 等支持 Agent Skills 规范的 AI 工具，让你的 AI 像一支出海增长团队一样干活。
+> 海外营销 Agent Skills 技能库（默认美国市场）：Meta / Google / TikTok 广告投放、多角度文案、UGC 视频、投放复盘、冷邮件与开发信、达人合作、邮件营销、私域成交、社媒运营。装进 Claude、Codex、Cursor 等支持 Agent Skills 规范的 AI 工具，让你的 AI 像一支出海增长团队一样干活。
 
 [English](#english) · [中文](#中文)
 
@@ -59,6 +59,7 @@ Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and poin
 | 6 | `cold-outreach` | Cold email from zero: domains, warm-up, deliverability, 开发信 sequences |
 | 7 | `email-marketing` | Welcome, abandoned cart, post-purchase, win-back flows, holiday calendar |
 | 8 | `conversational-sales` | 私域 sales on WhatsApp, DMs, Telegram and email: lead intake, qualification, chat scripts, FAQ library |
+| 9 | `social-media` | Organic growth on TikTok, Instagram, YouTube, Facebook, Pinterest, X, Reddit, LinkedIn: setup, formats, cadence, platform search, metrics, repurposing, content calendar |
 
 ### How a skill is structured
 
@@ -141,6 +142,7 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 | 6 | `cold-outreach` | 冷邮件冷启动：域名、预热、送达率、开发信序列 |
 | 7 | `email-marketing` | 欢迎、弃单、购后、召回邮件流程，节日营销日历 |
 | 8 | `conversational-sales` | 私域成交：客户登记、客户筛选、聊天话术、常见问题（WhatsApp、私信、Telegram、邮件） |
+| 9 | `social-media` | 社媒运营：TikTok、Instagram、YouTube、Facebook、Pinterest、X、Reddit、LinkedIn 的账号设置、内容形式、发布节奏、平台搜索、数据、一稿多发、内容日历 |
 
 ### 技能文件结构
 

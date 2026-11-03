@@ -54,3 +54,4 @@ Product, price, gross margin, B2C or B2B, target market (default US), **where go
 | B2B prospecting, 开发信 | `cold-outreach` |
 | Email flows for subscribers and customers | `email-marketing` |
 | 私域: lead registration, screening, chat scripts, FAQ | `conversational-sales` |
+| Organic social: TikTok, Instagram, YouTube, Pinterest and others; what and how often to post | `social-media` |

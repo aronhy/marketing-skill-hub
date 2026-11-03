@@ -156,4 +156,28 @@
 | 客服窗口 | Customer service window | WhatsApp Business 在客户最后一条消息后的一段时间（通常 24 小时）内可以自由回复，之后需用模板消息，以官方最新规则为准 |
 | 话术 | Chat scripts | 聊天时可复用的回复模板 |
 
+---
+
+## 社媒运营
+
+| 术语 | 英文 | 一句话解释 |
+|---|---|---|
+| 自然流量 | Organic reach | 不花广告费，靠内容被平台推荐带来的曝光 |
+| 商业账号 / 专业账号 | Business / Professional account | 各平台给品牌用的账号类型，能看数据、挂链接、投广告 |
+| 完播率 | Completion rate | 看完整条视频的人占比 |
+| 平均观看时长 | Average watch time | 平均每人看了多久 |
+| 留存曲线 | Retention curve | 视频每一秒还剩多少人在看，能看出从哪里开始掉 |
+| 触达 / 覆盖 | Reach | 看到内容的人数（去重） |
+| 互动率 | Engagement rate | 点赞、评论、分享、收藏占观看或触达的比例 |
+| Reels | Instagram Reels | Instagram 的竖屏短视频 |
+| Shorts | YouTube Shorts | YouTube 的竖屏短视频 |
+| 轮播图 | Carousel | 一条帖子里可以左右滑动的多张图 |
+| 快拍 | Stories | Instagram 上 24 小时后消失的内容 |
+| 精选快拍 | Highlights | 固定在 Instagram 主页上的快拍合集 |
+| 缩略图点击率 | Thumbnail CTR | YouTube 上看到视频封面后点进去的比例 |
+| 合作帖 | Collab post | Instagram 上两个账号共同发布、同时显示的帖子 |
+| 内容支柱 | Content pillars | 账号固定围绕的 3 到 4 个主题 |
+| 一稿多发 | Repurposing | 同一份内容改成不同平台的形式发布 |
+| 链接聚合页 | Link in bio | 主页上一个链接打开后再分出多个链接的页面 |
+
 平台功能和规则经常变化，具体以各平台官方文档为准。

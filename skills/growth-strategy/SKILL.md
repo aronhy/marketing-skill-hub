@@ -1,6 +1,6 @@
 ---
 name: growth-strategy
-description: Start here for overseas marketing (default market: US). Builds a 90-day growth plan, researches market demand and competitors' ads, sharpens positioning and offers, and plans landing pages. Use when the user asks where to start, wants a marketing or go-to-market plan, market research, competitor ad research, pricing or offer help, or a landing page. 中文关键词: 出海, 海外营销, 增长计划, 市场调研, 竞品广告, 定位, 报价, 落地页, 发货方式, 中国直发, 海外仓, FBA.
+description: Start here for overseas marketing (default market: US). Builds a 90-day growth plan, researches market demand and competitors' ads, sharpens positioning and offers, and plans landing pages. Use when the user asks where to start, wants a marketing or go-to-market plan, market research, competitor ad research, pricing or offer help, or a landing page. 中文关键词: 术语, 什么意思, 新手, 出海, 海外营销, 增长计划, 市场调研, 竞品广告, 定位, 报价, 落地页, 发货方式, 中国直发, 海外仓, FBA.
 ---
 
 # Growth Strategy
@@ -17,6 +17,7 @@ Product, price, gross margin, B2C or B2B, target market (default US), **where go
 
 | User wants | Read |
 |---|---|
+| What a term or abbreviation means (CPA, ROAS, CPM, CAPI, PMax, SPF…), beginner explanations | `references/glossary.md` |
 | Set up the shared product context used by every skill | `references/product-context-template.md` |
 | Where goods ship from, China direct vs US warehouse / FBA / FBM, delivery promises | `references/fulfillment.md` |
 | Where to start, 90-day plan, which channel, budget split | `references/growth-plan.md` + `references/90-day-plan-example.md` |
@@ -27,6 +28,7 @@ Product, price, gross margin, B2C or B2B, target market (default US), **where go
 
 ## How to work
 
+- If the user seems new or uses an abbreviation you are about to rely on (CPA, ROAS, CAPI, SPF…), explain it in one plain line the first time; definitions: `references/glossary.md`.
 - Before answering, read the reference file(s) in the matching row above. Paths are relative to this skill's folder.
 - Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.

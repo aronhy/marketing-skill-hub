@@ -41,6 +41,8 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 
 Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and points to the right skill.
 
+**New to this? Read the glossary first.** [Glossary (中英对照术语表)](skills/growth-strategy/references/glossary.md) explains CPA, ROAS, CPM, CAPI, PMax, SPF and 80+ other terms, with one worked example that ties the core metrics together.
+
 **Ads data: just send a screenshot.** For ad reviews, take a screenshot of your ads dashboard and send it. No exports, no account connections.
 
 **Shared product context.** The first time you use any skill, it offers to save your product facts (price, margin, customer, proof, results) to `.agents/product-context.md`. Every skill reads that file first, so you never answer the same questions twice.
@@ -120,6 +122,8 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 **Claude.ai / ChatGPT 等**：上传或粘贴任意 `SKILL.md`，再描述你的产品即可。
 
 不知道从哪开始？用 `growth-strategy`，它会给出 90 天计划并告诉你下一步用哪个技能。
+
+**新手先看术语表。** [中英对照术语表](skills/growth-strategy/references/glossary.md)：CPA、ROAS、CPM、CAPI、PMax、SPF 等 80 多个词，每个一句话讲清楚，并用一个算例把核心指标串起来。
 
 **投放数据：截图就行。** 做投放分析或复盘时，直接把广告后台截图发给 AI，不用导出，也不用授权连接账户。
 

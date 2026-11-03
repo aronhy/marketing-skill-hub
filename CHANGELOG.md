@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.3.0 (2026-11-03)
+
+- Added a bilingual glossary for beginners (`growth-strategy/references/glossary.md`) with a worked example tying the core ad metrics together
+- Every skill now explains abbreviations in plain words for new users
+- Ads skills accept screenshots or pasted data
+
 ## 2.2.0 (2026-11-02)
 
 - Every skill now asks where goods ship from (China direct vs local stock: US warehouse, 3PL, FBA, MCF)

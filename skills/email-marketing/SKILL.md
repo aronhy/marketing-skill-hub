@@ -65,6 +65,7 @@ Revenue per recipient, click rate, conversion rate, unsubscribe and spam complai
 
 ## How to work
 
+- If the user seems new or uses an abbreviation you are about to rely on (CPA, ROAS, CAPI, SPF…), explain it in one plain line the first time; definitions: `growth-strategy` → `references/glossary.md`.
 - Before answering, read the reference file listed under References below. Paths are relative to this skill's folder.
 - Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.

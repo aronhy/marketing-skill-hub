@@ -44,4 +44,4 @@ Platform(s), product, price, gross margin, target CPA or ROAS, budget, tracking 
 
 ## Related skills
 
-Copy → `ad-copy` · Video creatives → `ugc-video` · Weekly review and creative testing → `ads-optimization` · Landing page and offer → `growth-strategy`
+Network, IP checks and login problems → `network-environment` · Copy → `ad-copy` · Video creatives → `ugc-video` · Weekly review and creative testing → `ads-optimization` · Landing page and offer → `growth-strategy`

@@ -43,4 +43,4 @@ Product and target customer, platforms already in use and their current numbers 
 
 ## Related skills
 
-Scripts, hooks and creators → `ugc-video` · Turn top posts into ads → `paid-ads` · Captions and copy → `ad-copy` · DMs to sales → `conversational-sales` · Newsletter → `email-marketing`
+Network and account environment → `network-environment` · Scripts, hooks and creators → `ugc-video` · Turn top posts into ads → `paid-ads` · Captions and copy → `ad-copy` · DMs to sales → `conversational-sales` · Newsletter → `email-marketing`

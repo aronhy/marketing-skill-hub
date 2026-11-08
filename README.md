@@ -60,6 +60,7 @@ Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and poin
 | 7 | `email-marketing` | Welcome, abandoned cart, post-purchase, win-back flows, holiday calendar |
 | 8 | `conversational-sales` | 私域 sales on WhatsApp, DMs, Telegram and email: lead intake, qualification, chat scripts, FAQ library |
 | 9 | `social-media` | Organic growth on TikTok, Instagram, YouTube, Facebook, Pinterest, X, Reddit, LinkedIn: setup, formats, cadence, platform search, metrics, repurposing, content calendar |
+| 10 | `network-environment` | Check whether your network and IP are safe for ad accounts, stores, social accounts and cold email: send an IP check (e.g. ping123.app), get a scenario-by-scenario verdict and fixes |
 
 ### How a skill is structured
 
@@ -143,6 +144,7 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 | 7 | `email-marketing` | 欢迎、弃单、购后、召回邮件流程，节日营销日历 |
 | 8 | `conversational-sales` | 私域成交：客户登记、客户筛选、聊天话术、常见问题（WhatsApp、私信、Telegram、邮件） |
 | 9 | `social-media` | 社媒运营：TikTok、Instagram、YouTube、Facebook、Pinterest、X、Reddit、LinkedIn 的账号设置、内容形式、发布节奏、平台搜索、数据、一稿多发、内容日历 |
+| 10 | `network-environment` | 网络环境检测：把 IP 检测结果（如 ping123.app 截图）发给 AI，逐个场景判断广告后台、店铺、社媒账号、冷邮件能不能用，并给出整改步骤 |
 
 ### 技能文件结构
 

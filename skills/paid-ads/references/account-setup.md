@@ -24,7 +24,7 @@
 | 企业邮箱 | 用公司域名的邮箱注册，不要用个人邮箱 |
 | 付款方式 | 公司名下、平台支持的信用卡或充值方式 |
 | 追踪 | 像素和服务器端回传先装好（见 `tracking-setup.md`） |
-| 网络和设备 | 固定的公司网络，见 `network-environment`（如果你的仓库已安装） |
+| 网络和设备 | 固定的公司网络，见 `network-environment` |
 
 ## Meta（Facebook 和 Instagram）
 

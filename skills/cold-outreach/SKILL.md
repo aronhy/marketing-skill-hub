@@ -25,6 +25,10 @@ What the user sells and to whom, the strongest proof (clients, results, certific
 - Stay in this skill. Mention related skills as next steps; load another skill only when the user asks for that work or the answer needs its platform-specific details.
 - If `.agents/product-context.md` does not exist, end your reply with a one-line offer to save the product facts there.
 
+## Related skills
+
+Sending IP and blacklist checks → `network-environment`
+
 ## Core rules
 
 - Never send cold email from the main company domain.

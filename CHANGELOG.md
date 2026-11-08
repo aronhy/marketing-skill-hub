@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.6.0 (2026-11-08)
+
+- Added `network-environment` (网络环境检测): reads an IP check (e.g. ping123.app), rates ads back office, store, social and cold email scenarios, and gives fixes; references on IP types, platform risk signals, scenarios and incidents
+
 ## 2.5.0 (2026-11-08)
 
 - `paid-ads`: added account setup (self-serve vs official agency), small-budget start, peak season (Black Friday, Cyber Monday, Christmas), catalogs and retargeting

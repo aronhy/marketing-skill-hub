@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.5.0 (2026-11-08)
+
+- `paid-ads`: added account setup (self-serve vs official agency), small-budget start, peak season (Black Friday, Cyber Monday, Christmas), catalogs and retargeting
+- `growth-strategy`: added a global holiday calendar (US, Canada, Europe, Southeast Asia, Latin America, Russia) and market notes (language, platforms, payments, tax, compliance, sanctions)
+
 ## 2.4.0 (2026-11-03)
 
 - Added `social-media` (社媒运营): TikTok, Instagram, YouTube, other platforms (Facebook, Pinterest, X, Reddit, LinkedIn) and a content system with repurposing, pillars, weekly cadence and a content calendar

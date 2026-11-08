@@ -51,8 +51,8 @@ Not sure where to start? Use `growth-strategy`. It builds a 90-day plan and poin
 
 | # | Skill | What it does |
 |---|---|---|
-| 1 | `growth-strategy` | **Start here.** 90-day plan, market research, competitor ad research, positioning and offers, landing pages |
-| 2 | `paid-ads` | Meta, Google and TikTok ads: setup, structure, scaling, troubleshooting, tracking, policy compliance |
+| 1 | `growth-strategy` | **Start here.** 90-day plan, market research, global holiday calendar, market notes (US, Canada, Europe, SEA, LatAm, Russia), competitor ad research, positioning and offers, landing pages |
+| 2 | `paid-ads` | Meta, Google and TikTok ads: account opening, small-budget start, structure, scaling, Black Friday and peak season, catalogs and retargeting, tracking, policy compliance |
 | 3 | `ad-copy` | Multi-angle ad copy in native English for every platform |
 | 4 | `ugc-video` | UGC scripts with a 3-second conflict hook, frame-by-frame video teardown, creator outreach |
 | 5 | `ads-optimization` | Creative testing, kill / keep rules, weekly reviews, CPA diagnosis |
@@ -134,8 +134,8 @@ cp -r marketing-skill-hub/skills/* ~/.claude/skills/
 
 | # | 技能 | 作用 |
 |---|---|---|
-| 1 | `growth-strategy` | **总入口。** 90 天计划、市场调研、竞品广告、定位报价、落地页 |
-| 2 | `paid-ads` | Meta / Google / TikTok 投放：搭建、结构、放量、排查、追踪配置、合规防封 |
+| 1 | `growth-strategy` | **总入口。** 90 天计划、市场调研、全球节假日日历、各市场要点（美加、欧洲、东南亚、拉美、俄罗斯）、竞品广告、定位报价、落地页 |
+| 2 | `paid-ads` | Meta / Google / TikTok 投放：开户、小预算起步、结构、放量、黑五旺季、商品目录与再营销、追踪配置、合规防封 |
 | 3 | `ad-copy` | 各平台多角度、地道英文的广告文案 |
 | 4 | `ugc-video` | 前 3 秒强冲突的 UGC 脚本、视频逐帧拆解、达人合作 |
 | 5 | `ads-optimization` | 素材测试、关停 / 保留规则、周复盘、CPA 诊断 |

@@ -1,6 +1,6 @@
 ---
 name: paid-ads
-description: Set up, launch, scale and troubleshoot paid ads on Meta (Facebook/Instagram), Google (Search, Shopping, PMax) and TikTok for overseas markets (default US), including conversion tracking and ad policy compliance. Use when the user asks about any ad platform, campaign structure, budgets, scaling, optimizing a Google account (search terms, keywords, negatives, PMax, bidding), Meta or TikTok settings, Pixel/CAPI/GA4/UTMs, rejected ads or account bans. 中文关键词: 投放, 广告投放, Meta 广告, Facebook 广告, Google 广告, 谷歌广告, TikTok 广告, 搜索词, 否定词, 放量, 像素, 封号, 拒审.
+description: Set up, launch, scale and troubleshoot paid ads on Meta (Facebook/Instagram), Google (Search, Shopping, PMax) and TikTok for overseas markets (default US), including conversion tracking and ad policy compliance. Use when the user asks about any ad platform, campaign structure, budgets, scaling, optimizing a Google account (search terms, keywords, negatives, PMax, bidding), Meta or TikTok settings, Pixel/CAPI/GA4/UTMs, rejected ads or account bans. 中文关键词: 开户, 代理开户, 小预算, 黑五, 网一, 旺季, 圣诞, 商品目录, 动态广告, 再营销, 投放, 广告投放, Meta 广告, Facebook 广告, Google 广告, 谷歌广告, TikTok 广告, 搜索词, 否定词, 放量, 像素, 封号, 拒审.
 ---
 
 # Paid Ads
@@ -15,6 +15,10 @@ Platform(s), product, price, gross margin, target CPA or ROAS, budget, tracking 
 
 | User wants | Read |
 |---|---|
+| Open or set up ad accounts (Meta, Google, TikTok): self-serve vs official agency, documents, verification, permissions | `references/account-setup.md` |
+| Small budget (about $500–2,000): whether to run ads, a two-week plan, decision rules | `references/small-budget-start.md` |
+| Black Friday, Cyber Monday, Q4, Christmas, peak-season budgets, offers and timelines | `references/peak-season-bfcm.md` + `growth-strategy` → `references/global-holidays.md` |
+| Product catalogs, dynamic / Advantage+ catalog ads, retargeting, audience exclusions | `references/catalog-and-retargeting.md` |
 | Meta ads: structure, testing, kill/keep, scaling, new-account ramp, troubleshooting | `references/meta-ads.md` + `references/launch-checklist.md` |
 | Google ads: campaign mix, keywords, negatives, RSAs, feeds, bidding | `references/google-ads.md` + `references/keywords-and-rsa-example.md` |
 | TikTok ads: creative-first setup, Spark Ads, refresh cadence | `references/tiktok-ads.md` + `references/creative-calendar.md` |

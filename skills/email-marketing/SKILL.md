@@ -72,6 +72,8 @@ Revenue per recipient, click rate, conversion rate, unsubscribe and spam complai
 
 ## References
 
+- `growth-strategy` → `references/global-holidays.md`: holidays and shopping festivals by market for the campaign calendar
+
 - `references/flow-copy-examples.md`: welcome, abandoned checkout and post-purchase copy, win-back, 12-month calendar
 
 Related skills: cold prospecting (non-subscribers) → `cold-outreach` · offers and proof → `growth-strategy`

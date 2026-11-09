@@ -4,7 +4,7 @@
 >
 > 海外营销 Agent Skills 技能库（默认美国市场）：Meta / Google / TikTok 广告投放、多角度文案、UGC 视频、投放复盘、冷邮件与开发信、达人合作、邮件营销、私域成交、社媒运营。装进 Claude、Codex、Cursor 等支持 Agent Skills 规范的 AI 工具，让你的 AI 像一支出海增长团队一样干活。
 
-[English](#english) · [中文](#中文)
+[English](#english) · [中文](#中文) · [日本語](README.ja.md)
 
 ---
 
